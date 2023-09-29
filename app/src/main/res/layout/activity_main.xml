@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:alpha="0"
-        android:background="@color/dark_green"
+        android:background="@color/darkBlue2"
         android:tag="menu">
 
         <androidx.appcompat.widget.AppCompatImageView

@@ -8,8 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFF</color>
     <color name="white_opacity_30">#40FFFFFF</color>
-    <color name="accent">#43D477</color>
-    <color name="green">#43D477</color>
+    <color name="accent">#0894FF</color>
+    <color name="green">#43D4CF</color>
     <color name="dark_green">#00BA63</color>
     <color name="rippleColor">@color/lightGray</color>
     <color name="lightGray">#F8F8F8</color>
@@ -42,20 +42,20 @@
     <color name="default_status_bar_color">@color/gray</color>
     <color name="primary_status_bar_color">@color/accent</color>
 
-    <color name="bottom_nav_start_color">#218F48</color>
-    <color name="bottom_nav_end_color">#43D477</color>
-    <color name="toolbar_drawer_open_color">#24EF9C</color>
+    <color name="bottom_nav_start_color">#013793</color>
+    <color name="bottom_nav_end_color">#0074DA</color>
+    <color name="toolbar_drawer_open_color">#2497EF</color>
     
-    <color name="nav_drawer_icon_bg_gradient">#FF9EFFC1</color>
-    <color name="home_icon_bg_gradient">#FF9EFFC1</color>
+    <color name="nav_drawer_icon_bg_gradient">#0289FF</color>
+    <color name="home_icon_bg_gradient">#9EF0FF</color>
 
-    <color name="splash_main_gradient_start">#43D477</color>
-    <color name="splash_main_gradient_end">#24EF9C</color>
+    <color name="splash_main_gradient_start">#4390D4</color>
+    <color name="splash_main_gradient_end">#2486EF</color>
 
-    <color name="bottom_nav_gradient_start">#218F48</color>
-    <color name="bottom_nav_gradient_end">#43D477</color>
+    <color name="bottom_nav_gradient_start">#013793</color>
+    <color name="bottom_nav_gradient_end">#0074DA</color>
 
-    <color name="home_icon_gradient_start">#9EFFC1</color>
-    <color name="home_icon_gradient_end">#43D477</color>
+    <color name="home_icon_gradient_start">#9EDDFF</color>
+    <color name="home_icon_gradient_end">#4389D4</color>
 
 </resources>

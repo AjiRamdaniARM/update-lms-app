@@ -7,7 +7,7 @@ object BuildVars {
     @JvmField
     var LOGS_ENABLED = true
     const val API_KEY = "1234"
-    const val BASE_URL = "https://digitalkanv.com/"
+    const val BASE_URL = "https://app.rocket-soft.org/api/development/"
 
     class DefaultLang(val value: String) {
         companion object {
